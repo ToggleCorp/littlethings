@@ -1,0 +1,13 @@
+G:\My Drive\OnlineSpace\Personal\code\littlethings\PlanetAges\obj\Debug\netcoreapp3.1\PlanetAges.csprojAssemblyReference.cache
+G:\My Drive\OnlineSpace\Personal\code\littlethings\PlanetAges\obj\Debug\netcoreapp3.1\PlanetAges.csproj.CoreCompileInputs.cache
+G:\My Drive\OnlineSpace\Personal\code\littlethings\PlanetAges\obj\Debug\netcoreapp3.1\PlanetAges.AssemblyInfoInputs.cache
+G:\My Drive\OnlineSpace\Personal\code\littlethings\PlanetAges\obj\Debug\netcoreapp3.1\PlanetAges.AssemblyInfo.cs
+G:\My Drive\OnlineSpace\Personal\code\littlethings\PlanetAges\bin\Debug\netcoreapp3.1\PlanetAges.exe
+G:\My Drive\OnlineSpace\Personal\code\littlethings\PlanetAges\bin\Debug\netcoreapp3.1\PlanetAges.deps.json
+G:\My Drive\OnlineSpace\Personal\code\littlethings\PlanetAges\bin\Debug\netcoreapp3.1\PlanetAges.runtimeconfig.json
+G:\My Drive\OnlineSpace\Personal\code\littlethings\PlanetAges\bin\Debug\netcoreapp3.1\PlanetAges.runtimeconfig.dev.json
+G:\My Drive\OnlineSpace\Personal\code\littlethings\PlanetAges\bin\Debug\netcoreapp3.1\PlanetAges.dll
+G:\My Drive\OnlineSpace\Personal\code\littlethings\PlanetAges\bin\Debug\netcoreapp3.1\PlanetAges.pdb
+G:\My Drive\OnlineSpace\Personal\code\littlethings\PlanetAges\obj\Debug\netcoreapp3.1\PlanetAges.dll
+G:\My Drive\OnlineSpace\Personal\code\littlethings\PlanetAges\obj\Debug\netcoreapp3.1\PlanetAges.pdb
+G:\My Drive\OnlineSpace\Personal\code\littlethings\PlanetAges\obj\Debug\netcoreapp3.1\PlanetAges.genruntimeconfig.cache
