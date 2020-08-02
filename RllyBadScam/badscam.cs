@@ -19,6 +19,11 @@ namespace NameGrab
 
       // Print results
       Console.WriteLine($"Dear {firstLetter}. {lastName}, you have one millon dollar!\r\nPlese clik on the link beloe!");
+      Console.WriteLine("");
+
+      //Press any key to exit.
+      Console.WriteLine("Please press the enter key on your keyboard to exit the program. ");
+      string exitkey = Console.ReadLine();
 
     }
   }

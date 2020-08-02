@@ -1,0 +1,13 @@
+C:\Users\jamie\Documents\Git\littlethings\RllyBadScam\bin\Debug\netcoreapp3.1\RllyBadScam.exe
+C:\Users\jamie\Documents\Git\littlethings\RllyBadScam\bin\Debug\netcoreapp3.1\RllyBadScam.deps.json
+C:\Users\jamie\Documents\Git\littlethings\RllyBadScam\bin\Debug\netcoreapp3.1\RllyBadScam.runtimeconfig.json
+C:\Users\jamie\Documents\Git\littlethings\RllyBadScam\bin\Debug\netcoreapp3.1\RllyBadScam.runtimeconfig.dev.json
+C:\Users\jamie\Documents\Git\littlethings\RllyBadScam\bin\Debug\netcoreapp3.1\RllyBadScam.dll
+C:\Users\jamie\Documents\Git\littlethings\RllyBadScam\bin\Debug\netcoreapp3.1\RllyBadScam.pdb
+C:\Users\jamie\Documents\Git\littlethings\RllyBadScam\obj\Debug\netcoreapp3.1\RllyBadScam.csprojAssemblyReference.cache
+C:\Users\jamie\Documents\Git\littlethings\RllyBadScam\obj\Debug\netcoreapp3.1\RllyBadScam.csproj.CoreCompileInputs.cache
+C:\Users\jamie\Documents\Git\littlethings\RllyBadScam\obj\Debug\netcoreapp3.1\RllyBadScam.AssemblyInfoInputs.cache
+C:\Users\jamie\Documents\Git\littlethings\RllyBadScam\obj\Debug\netcoreapp3.1\RllyBadScam.AssemblyInfo.cs
+C:\Users\jamie\Documents\Git\littlethings\RllyBadScam\obj\Debug\netcoreapp3.1\RllyBadScam.dll
+C:\Users\jamie\Documents\Git\littlethings\RllyBadScam\obj\Debug\netcoreapp3.1\RllyBadScam.pdb
+C:\Users\jamie\Documents\Git\littlethings\RllyBadScam\obj\Debug\netcoreapp3.1\RllyBadScam.genruntimeconfig.cache
