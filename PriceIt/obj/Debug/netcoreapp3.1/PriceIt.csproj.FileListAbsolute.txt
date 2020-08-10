@@ -1,0 +1,13 @@
+C:\Users\jamie\Documents\Git\littlethings\PriceIt\bin\Debug\netcoreapp3.1\PriceIt.exe
+C:\Users\jamie\Documents\Git\littlethings\PriceIt\bin\Debug\netcoreapp3.1\PriceIt.deps.json
+C:\Users\jamie\Documents\Git\littlethings\PriceIt\bin\Debug\netcoreapp3.1\PriceIt.runtimeconfig.json
+C:\Users\jamie\Documents\Git\littlethings\PriceIt\bin\Debug\netcoreapp3.1\PriceIt.runtimeconfig.dev.json
+C:\Users\jamie\Documents\Git\littlethings\PriceIt\bin\Debug\netcoreapp3.1\PriceIt.dll
+C:\Users\jamie\Documents\Git\littlethings\PriceIt\bin\Debug\netcoreapp3.1\PriceIt.pdb
+C:\Users\jamie\Documents\Git\littlethings\PriceIt\obj\Debug\netcoreapp3.1\PriceIt.csprojAssemblyReference.cache
+C:\Users\jamie\Documents\Git\littlethings\PriceIt\obj\Debug\netcoreapp3.1\PriceIt.csproj.CoreCompileInputs.cache
+C:\Users\jamie\Documents\Git\littlethings\PriceIt\obj\Debug\netcoreapp3.1\PriceIt.AssemblyInfoInputs.cache
+C:\Users\jamie\Documents\Git\littlethings\PriceIt\obj\Debug\netcoreapp3.1\PriceIt.AssemblyInfo.cs
+C:\Users\jamie\Documents\Git\littlethings\PriceIt\obj\Debug\netcoreapp3.1\PriceIt.dll
+C:\Users\jamie\Documents\Git\littlethings\PriceIt\obj\Debug\netcoreapp3.1\PriceIt.pdb
+C:\Users\jamie\Documents\Git\littlethings\PriceIt\obj\Debug\netcoreapp3.1\PriceIt.genruntimeconfig.cache
