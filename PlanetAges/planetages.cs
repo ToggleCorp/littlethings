@@ -47,6 +47,7 @@ namespace PlanetCalculations
       Console.WriteLine($"Current Age on Mercury: " + universalAge);
       Console.WriteLine("After travelling to Jupiter, your Earth age would be: " + appology2);
       Console.WriteLine("After travelling to Jupiter, your Jupiter age would be: " + appology3);
+      string ender = Console.ReadLine();
         } 
       else if (chosenPlanet == 2) 
         {
@@ -71,6 +72,7 @@ namespace PlanetCalculations
       Console.WriteLine($"Current Age on Venus: " + universalAge);
       Console.WriteLine("After travelling to Jupiter, your Earth age would be: " + appology2);
       Console.WriteLine("After travelling to Jupiter, your Jupiter age would be: " + appology3);
+      string ender = Console.ReadLine();
         } 
       else if (chosenPlanet == 3)
       {
@@ -95,6 +97,7 @@ namespace PlanetCalculations
       Console.WriteLine($"Current Age on Earth: " + universalAge);
       Console.WriteLine("After travelling to Jupiter, your Earth age would be: " + appology2);
       Console.WriteLine("After travelling to Jupiter, your Jupiter age would be: " + appology3);
+      string ender = Console.ReadLine();
       }
       else if (chosenPlanet == 4)
       {
@@ -119,6 +122,7 @@ namespace PlanetCalculations
       Console.WriteLine($"Current Age on Mars: " + universalAge);
       Console.WriteLine("After travelling to Jupiter, your Earth age would be: " + appology2);
       Console.WriteLine("After travelling to Jupiter, your Jupiter age would be: " + appology3);
+      string ender = Console.ReadLine();
       }
       else if (chosenPlanet == 5)
       {
@@ -143,6 +147,7 @@ namespace PlanetCalculations
       Console.WriteLine($"Current Age on Jupiter: " + universalAge);
       Console.WriteLine("After travelling to Jupiter, your Earth age would be: " + appology2);
       Console.WriteLine("After travelling to Jupiter, your Jupiter age would be: " + appology3);
+      string ender = Console.ReadLine();
       }
       else if (chosenPlanet == 6)
       {
@@ -167,6 +172,7 @@ namespace PlanetCalculations
       Console.WriteLine($"Current Age on Saturn: " + universalAge);
       Console.WriteLine("After travelling to Jupiter, your Earth age would be: " + appology2);
       Console.WriteLine("After travelling to Jupiter, your Jupiter age would be: " + appology3);
+      string ender = Console.ReadLine();
       }
       else if (chosenPlanet == 7)
       {
@@ -191,6 +197,7 @@ namespace PlanetCalculations
       Console.WriteLine($"Current Age on Uranus: " + universalAge);
       Console.WriteLine("After travelling to Jupiter, your Earth age would be: " + appology2);
       Console.WriteLine("After travelling to Jupiter, your Jupiter age would be: " + appology3);
+      string ender = Console.ReadLine();
       }
       else if (chosenPlanet == 8)
       {
@@ -215,6 +222,7 @@ namespace PlanetCalculations
       Console.WriteLine($"Current Age on Neptune: " + universalAge);
       Console.WriteLine("After travelling to Jupiter, your Earth age would be: " + appology2);
       Console.WriteLine("After travelling to Jupiter, your Jupiter age would be: " + appology3);
+      string ender = Console.ReadLine();
       }
       else if (chosenPlanet == 9)
       {
@@ -239,6 +247,7 @@ namespace PlanetCalculations
       Console.WriteLine($"Current Age on Pluto: " + universalAge);
       Console.WriteLine("After travelling to Jupiter, your Earth age would be: " + appology2);
       Console.WriteLine("After travelling to Jupiter, your Jupiter age would be: " + appology3);
+      string ender = Console.ReadLine();
       }
       else
       {
