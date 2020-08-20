@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "G:\\My Drive\\OnlineSpace\\Personal\\code\\littlethings\\PlanetAges\\PlanetAges.csproj",
+      "projectUniqueName": "C:\\Users\\jamie\\Documents\\Git\\littlethings\\PlanetAges\\PlanetAges.csproj",
       "projectName": "PlanetAges",
-      "projectPath": "G:\\My Drive\\OnlineSpace\\Personal\\code\\littlethings\\PlanetAges\\PlanetAges.csproj",
+      "projectPath": "C:\\Users\\jamie\\Documents\\Git\\littlethings\\PlanetAges\\PlanetAges.csproj",
       "packagesPath": "C:\\Users\\jamie\\.nuget\\packages\\",
-      "outputPath": "G:\\My Drive\\OnlineSpace\\Personal\\code\\littlethings\\PlanetAges\\obj\\",
+      "outputPath": "C:\\Users\\jamie\\Documents\\Git\\littlethings\\PlanetAges\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\jamie\\AppData\\Roaming\\NuGet\\NuGet.Config",
