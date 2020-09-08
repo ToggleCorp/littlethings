@@ -45,7 +45,7 @@ namespace PlanetCalculations
       Console.WriteLine();
       Console.WriteLine("Current Earth Age: " + userAge);
       Console.WriteLine($"Current Age on Mercury: " + universalAge);
-      Console.WriteLine($"After travelling to Mercury, your Earth age would be: " appology2;
+      Console.WriteLine($"After travelling to Mercury, your Earth age would be: " + appology2);
       Console.WriteLine("After travelling to Mercury, your Mercury age would be: " + appology3);
       string ender = Console.ReadLine();
         } 
