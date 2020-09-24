@@ -1,7 +1,7 @@
 # Security Policy
 
 Obviously LittleThings does not have many security vulnerabilites because they are one use programs,
-however, we here at Toggle take security very seriously.
+however, we take security and your privacy very seriously.
 
 ## Supported Versions
 
