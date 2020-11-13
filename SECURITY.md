@@ -1,3 +1,5 @@
+> REMEMBER: Never run code from an untrusted source!
+
 # Security Policy
 
 Obviously LittleThings does not have many security vulnerabilites because they are one use programs,
